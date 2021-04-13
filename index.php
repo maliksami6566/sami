@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h2>Malik Sami</h2>
+
+    <h3>My Name is Khan</h3>
 </body>
 </html>
